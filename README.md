@@ -1,12 +1,12 @@
 # Hi, I'm Carrie Warner 👋
-**Senior Technical Writer | Documentation Systems Orchestrator** *Steering the transition from Generative to Agentic Documentation for Defense, Intel, and DevSecOps*
+**Senior Technical Writer | Documentation Systems Orchestrator** *Steering the transition from Generative to Agentic Documentation*
 
-[**Mattermost**](https://mattermost.com) | **Ontario, Canada** | [**LinkedIn**](https://linkedin.com/in/carriewarner)
+[**LinkedIn**](https://linkedin.com/in/carriewarner)
 
 ---
 
 ### ⚡ Executive Summary
-I am a **Systems-Level Documentation Leader** at Mattermost with a 5-year legacy of open-source stewardship. I operate at the intersection of engineering reality and customer-consumable truth. I specialize in high-stakes markets—**Defense, Intelligence, and Critical Infrastructure**—where documentation is a strategic business asset and a regulated upstream dependency.
+I am a **Systems-Level Documentation Leader** with a 5-year legacy of open-source stewardship. I operate at the intersection of engineering reality and customer-consumable truth. I specialize in high-stakes markets—**Defense, Intelligence, and Critical Infrastructure**—where documentation is a strategic business asset and a regulated upstream dependency.
 
 ---
 
@@ -86,8 +86,7 @@ I synchronize documentation and UX text across **6+ simultaneous codebases** to 
 
 ### 📫 Let's Connect
 * 💼 **LinkedIn:** [linkedin.com/in/carriewarner](https://www.linkedin.com/in/carriewarner)
-* 🏢 **Company:** [Mattermost](https://mattermost.com)
-* 💬 **Mattermost Community:** Find me in the [Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group)
 
 ---
-*Profile last updated: January 2026*
+
+*Profile last updated: March 2026*
